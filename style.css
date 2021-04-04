@@ -1,0 +1,59 @@
+@import url(" components/container.css");
+/*@import url("components/avatar.css");*/
+
+
+body{
+	color:rgb(75,75,75);
+	background-color:rgb(237, 255, 236);
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	font-weight: lighter;
+	text-align: center;
+    }
+    
+ #avatar{
+ 	width: 150px;
+    height: 145px;
+    border-radius: 50%;
+ }
+ 
+
+ h1, h2,h3,h4, h5 {
+ 	color:rgb(228, 186, 212);
+ 	font-family: 'Montserrat', sans-serif;
+ 	font-size: 36px
+ 	
+}
+
+
+.block{
+    
+    border-radius: 5px;
+    background: rgb(202, 247, 227);
+    width: 50%;
+    margin: auto;
+    box-shadow: 0px 5px 15px rgb(0, 0, 0.1);
+    padding: 20px;
+    margin-top: 3%;
+
+ 
+    } 
+#block2{
+    background: center/100% no-repeat url("../images/2filles.jpg");
+    color: white;
+    height: 200px;
+    opacity: 0.8;
+   }
+#socialmedia{
+		text-align: center;
+        color:(228, 186, 212);
+        }
+      
+
+a{
+	color:(228, 186, 212);
+	text-decoration: none;
+	transition: color 0.3s ease;
+
+}
+   
